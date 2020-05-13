@@ -1,2 +1,2 @@
 # figure-out
-[FigureOut.club](FigureOut.club)
+[https://figureout.club/](https://figureout.club/)
